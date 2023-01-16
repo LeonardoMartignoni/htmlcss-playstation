@@ -57,3 +57,13 @@
 .game_banner .game_banner_content img {
     max-width: 50%;
 }
+
+/* PlayStation Plus */
+
+.playstation_plus {
+    background-color: #bebcbb;
+}
+
+.playstation_plus .playstation_plus_image {
+    max-width: 100%;
+}
