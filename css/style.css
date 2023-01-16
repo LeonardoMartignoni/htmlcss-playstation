@@ -1,4 +1,4 @@
-/* Header */
+/* Upper Header */
 
 .top_header {
     min-height: 30px;
@@ -8,3 +8,5 @@
 .top_header img {
     height: 15px;
 }
+
+/* Bottom Header */
