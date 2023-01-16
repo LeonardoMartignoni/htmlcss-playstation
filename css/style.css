@@ -1,0 +1,10 @@
+/* Header */
+
+.top_header {
+    min-height: 30px;
+    background-color: black;
+}
+
+.top_header img {
+    height: 15px;
+}
