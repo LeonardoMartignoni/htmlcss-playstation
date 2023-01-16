@@ -10,3 +10,22 @@
 }
 
 /* Bottom Header */
+
+/* Jumbotron */
+
+.jumbotron {
+    background-image: url("../img/jumbo-bg.png");
+    background-size: cover;
+    background-position: center;
+    height: calc(100vh - 60px - 30px - 160px);
+}
+
+.jumbotron .container,
+.jumbotron .row {
+    height: 100%;
+}
+
+.jumbotron_carousel_select {
+    background-color: coral;
+    border: 2px dashed black;
+}
