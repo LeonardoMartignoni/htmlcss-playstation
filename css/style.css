@@ -7,6 +7,10 @@
     border: 2px dashed black;
 }
 
+.bg_dark_blue {
+    background-color: #161c3b;
+}
+
 /* Upper Header */
 
 .top_header {
@@ -64,6 +68,4 @@
     background-color: #bebcbb;
 }
 
-.playstation_plus .playstation_plus_image {
-    max-width: 100%;
-}
+/* PlayStation Now */
