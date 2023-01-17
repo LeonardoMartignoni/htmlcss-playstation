@@ -11,6 +11,10 @@
     background-color: #161c3b;
 }
 
+.bg_blue {
+    background-color: #00439c;
+}
+
 /* Upper Header */
 
 .top_header {
@@ -69,4 +73,12 @@
     background-color: #bebcbb;
 }
 
-/* PlayStation Now */
+/* Footer */
+
+footer {
+    min-height: 100px;
+}
+
+footer .sony_copyright img {
+    width: 150px;
+}
