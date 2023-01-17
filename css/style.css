@@ -115,3 +115,10 @@ footer .sony_copyright img {
 footer .sony_copyright .sony_copyright_text {
     font-size: 0.8rem;
 }
+
+footer .country_selection::before {
+    content: url("../img/language-globe.svg");
+    display: inline-block;
+    width: 20px;
+    margin-right: 15px;
+}
