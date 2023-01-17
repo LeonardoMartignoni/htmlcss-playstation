@@ -34,6 +34,12 @@
     color: #2d64e6;
 }
 
+.btn.btn-dark:hover {
+    box-shadow: 0px 0px 0px 2px white,
+        0px 0px 0px 4px #212529;
+    background-color: #212529;
+}
+
 /* Upper Header */
 
 .top_header {
@@ -94,8 +100,23 @@
 
 /* Presentation */
 
+.presentation .presentation_carousel_select {
+    transition: all 0.2s ease;
+    opacity: 0.6;
+}
+
 .presentation .presentation_carousel_select img {
     width: 60%;
+}
+
+.presentation .presentation_active {
+    opacity: 1;
+    box-shadow: inset 0px -2px 0px #2d64e6;
+}
+
+.presentation .presentation_carousel_select:hover {
+    opacity: 1;
+    box-shadow: inset 0px -2px 0px #2d64e6;
 }
 
 /* Game Banner */
