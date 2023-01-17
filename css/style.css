@@ -26,7 +26,18 @@
     height: 15px;
 }
 
-/* Bottom Header */
+/* Bottom Header - Navbar */
+
+.navbar .search_lens {
+    width: 25px;
+}
+
+.dropdown-toggle::after {
+    content: url("../img/chevron-down-solid.svg");
+    width: 10px;
+    border: none;
+    vertical-align: 0;
+}
 
 /* Jumbotron */
 
