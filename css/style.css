@@ -77,6 +77,21 @@
     height: 100%;
 }
 
+.jumbotron_carousel_active {
+    box-shadow: 0px 0px 0px 3px white,
+        0px 0px 0px 6px #2d64e6;
+}
+
+.jumbotron_carousel_select .carousel_select_content {
+    bottom: 0;
+    position: relative;
+    transition: bottom 0.5s ease;
+}
+
+.jumbotron_carousel_select .carousel_select_content:hover {
+    bottom: 15px;
+}
+
 /* Presentation */
 
 .presentation .presentation_carousel_select img {
