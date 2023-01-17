@@ -64,6 +64,17 @@
     vertical-align: 0;
 }
 
+.dropdown .dropdown-menu .dropdown_image {
+    width: 70%;
+}
+
+.dropdown .dropdown-menu .dropdown_links li::before {
+    content: "\2022";
+    color: #2d64e6;
+    display: inline-block;
+    font-weight: bold;
+}
+
 /* Jumbotron */
 
 .jumbotron {
