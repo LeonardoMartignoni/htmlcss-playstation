@@ -27,6 +27,7 @@
 /* Jumbotron */
 
 .jumbotron {
+    margin-top: 90px;
     background-image: url("../img/jumbo-bg.png");
     background-size: cover;
     background-position: center;
