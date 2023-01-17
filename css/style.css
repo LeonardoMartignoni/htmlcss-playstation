@@ -54,11 +54,6 @@
     height: 100%;
 }
 
-.jumbotron_carousel_select {
-    background-color: coral;
-    border: 2px dashed black;
-}
-
 /* Presentation */
 
 .presentation .presentation_carousel_select img {
@@ -92,4 +87,8 @@ footer {
 
 footer .sony_copyright img {
     width: 150px;
+}
+
+footer .sony_copyright .sony_copyright_text {
+    font-size: 0.8rem;
 }
